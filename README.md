@@ -1,6 +1,6 @@
 # Hi, I'm Kunj Bihari 👋
 
-🚀 React Frontend Developer | MERN Stack | Open to Freelance & Full-time Roles
+🚀 React Frontend Developer | MERN Stack 
 
 I am a JavaScript-focused React developer with 3.5+ years of experience
 working on real-world dashboards, forms, and API-based applications.
@@ -15,10 +15,8 @@ working on real-world dashboards, forms, and API-based applications.
 - Node.js, MongoDB (basic)
 
 ### 💼 What I’m Currently Doing
-- Building production-like React projects for job switch & freelancing
+- Building production-like React projects
 - Preparing for MERN + Frontend interviews
-- Open to part-time freelance React projects
-
 ### 📂 Featured Projects (Coming Soon)
 - React Admin Dashboard (MUI)
 - Client Website (Responsive)
