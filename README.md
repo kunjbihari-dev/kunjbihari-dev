@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kunj Bihari 👋
 
-<!--
-**kunjbihari-dev/kunjbihari-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 React Frontend Developer | MERN Stack | Open to Freelance & Full-time Roles
 
-Here are some ideas to get you started:
+I am a JavaScript-focused React developer with 3.5+ years of experience
+working on real-world dashboards, forms, and API-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- JavaScript (ES6+)
+- React.js
+- Material UI (MUI)
+- HTML, CSS
+- REST APIs
+- Git, GitHub
+- Node.js, MongoDB (basic)
+
+### 💼 What I’m Currently Doing
+- Building production-like React projects for job switch & freelancing
+- Preparing for MERN + Frontend interviews
+- Open to part-time freelance React projects
+
+### 📂 Featured Projects (Coming Soon)
+- React Admin Dashboard (MUI)
+- Client Website (Responsive)
+- MERN Authentication App
+- AI-powered React UI
+
+📫 Reach me at:
+Email: kunj8963@gmail.com
